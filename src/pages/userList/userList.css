@@ -1,0 +1,45 @@
+
+.wrapper
+{
+  flex: 4;
+  border: 1px solid rgb(189, 186, 186);
+  border-radius: 10px;
+}
+
+img{
+  height:60px;
+  border-radius: 50%;
+}
+td ,th{
+  text-align: left;
+  border-radius: 3px;
+  border : 1px solid rgb(228, 227, 227);
+}
+table{
+  border : 1px solid rgb(197, 197, 197);
+}
+.btndelete{
+  width: 100px;
+  border: none;
+  padding: 7px 10px;
+  font-weight: 600;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 40px;
+  background-color: rgb(226, 70, 70);
+  color: white;
+}
+.btnEdite{
+  width: 100px;
+  border: none;
+  padding: 7px 10px;
+  font-weight: 600;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 40px;
+  background-color: rgb(43, 156, 43);
+  color: white;
+}
+.trclass2{
+  color: rgb(77, 171, 233);
+}

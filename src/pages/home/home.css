@@ -1,0 +1,8 @@
+.home{
+    flex: 4;
+}
+
+.lastOnes{
+    display: flex;
+    margin: 20px;
+}
